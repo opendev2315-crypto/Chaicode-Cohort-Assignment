@@ -2,7 +2,7 @@
 
 A pixel-perfect recreation of the Cursor.com landing page, focusing on visual fidelity and clean, semantic code.
 
-![Cursor Landing Page Preview] <img width="1539" height="1078" alt="Screenshot 2026-02-04 at 1 16 27 AM" src="https://github.com/user-attachments/assets/637deb42-8577-4878-a18f-bdb7e05dd486" />
+Cursor Landing Page Preview <img width="1539" height="1078" alt="Screenshot 2026-02-04 at 1 16 27 AM" src="https://github.com/user-attachments/assets/637deb42-8577-4878-a18f-bdb7e05dd486" />
 
 ## Overview
 
